@@ -36,14 +36,12 @@ h6 {
 }
 .sofia
 {
-  font-family: "Sofia", sans-serif;
-  text-shadow: 3px 3px 3px #ababab;
+  font-family: Helvetica, Sans-Serif;
   font-weight: bold;
 }
 .trirong
 {
-	font-family: "Trirong", serif;
-	text-shadow: 3px 3px 3px #ababab;
+	font-family: Helvetica, Sans-Serif;
 }
 
 /*--------------------------------------------------------------
